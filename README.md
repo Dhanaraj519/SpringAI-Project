@@ -31,10 +31,9 @@ This project integrates **Spring Boot (Java)** backend with a **ReactJS** fronte
 
 ### 🏗️ Backend (Spring Boot)
 
-```bash
-cd spring-ai-backend
-mvn clean install
-mvn spring-boot:run
+- cd spring-ai-backend
+- mvn clean install
+- mvn spring-boot:run
 ---
 ## 📦 API Endpoints
 
