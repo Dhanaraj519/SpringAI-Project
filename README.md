@@ -35,7 +35,7 @@ This project integrates **Spring Boot (Java)** backend with a **ReactJS** fronte
 - mvn clean install
 - mvn spring-boot:run
 
-## 💻 Frontend (ReactJS)
+### 💻 Frontend (ReactJS)
 
 - cd ai-frontend
 - npm install
