@@ -34,6 +34,13 @@ This project integrates **Spring Boot (Java)** backend with a **ReactJS** fronte
 - cd spring-ai-backend
 - mvn clean install
 - mvn spring-boot:run
+
+## 💻 Frontend (ReactJS)
+
+- cd ai-frontend
+- npm install
+- npm start
+
 ---
 ## 📦 API Endpoints
 
@@ -61,7 +68,8 @@ This project is a hands-on example of building AI-integrated web applications wi
 - Prompt engineering  
 - Frontend-backend communication  
 - AI service integration  
-
-Real-world challenges like **CORS setup**, **AI response handling**, and **prompt tuning** were addressed during development.
-
 ---
+Developed with passion by ** Dhanaraj Panabaka** 🚀  
+
+_"AI is not just the future; it's the present. This project reflects my dedication to exploring practical AI solutions with modern web development."_
+
